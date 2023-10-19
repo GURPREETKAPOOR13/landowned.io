@@ -1,3 +1,10 @@
+/*GURPREET KAPOOR
+M 9464038521
+B.Tech computer engineering 7th sem
+17022000341
+guru nanak dev university, amritsar
+*/
+
 import java.util.*;
 import java.util.stream.Collectors;
 
